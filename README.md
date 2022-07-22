@@ -34,6 +34,11 @@ AtliQ Hardware is growing rapidly in the recent years, and they have decided to 
 - Collaboration, workspace, access permissions in PowerBi services
 - And more 😅
 
+## GitHub 
+
+- Uploading Large size files using GitHub LFS
+- Tracking the particular type of file extensions for LFS
+
 ## Business related terms
 
 - Gross price
@@ -151,7 +156,7 @@ Fact table : It will have the data about the transactions
 - Following Good practices of data modeling is must. Refer this page to get to know the good practices [Blog](https://addendanalytics.com/blog/data-modelling-best-practices/)
 - In this project, we have followed Snowfall data modeling method.
 
-![Untitled]()
+<img src="https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Data_model.png" width="450" class="center">
 
 ### Dashboard designing
 
