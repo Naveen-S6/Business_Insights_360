@@ -1,4 +1,4 @@
-# Business_Insights_360
+# Business Insights 360
 
 ## Project Overview
 
@@ -205,6 +205,8 @@ In Home view, all the views button will be available. User will land on specific
 ## Products
 
 ![Products](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Products%20View.gif)
+
+you can find the full report file here : [Report](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Report/360.pbix)
 
 ## Project Outcome
 
