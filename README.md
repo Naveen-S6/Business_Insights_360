@@ -208,6 +208,8 @@ In Home view, all the views button will be available. User will land on specific
 
 you can find the full report file here : [Report](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Report/360.pbix)
 
+<iframe title="360" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=f0581238-0a3c-42d0-9245-f1aa980e94d5&autoAuth=true&ctid=94572df2-fdd4-46f9-8952-8b5753b31d29&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLWluZGlhLXdlc3QtcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQvIn0%3D" frameborder="0" allowFullScreen="true"></iframe>
+
 ## Project Outcome
 
 By using this report, decisions can be taken based on the data. Further it will help in answering n number of why questions based on the situations.
